@@ -47,5 +47,3 @@ This task improved my SQL query writing skills, understanding of joins, subqueri
 
 ---
 
-## 🔗 Repository Link
-[GitHub Repository](Add_Your_Repo_Link_Here)
